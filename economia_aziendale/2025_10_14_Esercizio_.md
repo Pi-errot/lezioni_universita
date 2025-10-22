@@ -140,6 +140,28 @@ Attivo circolare:
 ----
 
 
+Esercitazione 2: Attivo circolante dello Stato Patrimoniale al 31/12/2018
+
+| ATTIVO CIRCOLANTE |  -  |
+| -- | -- |
+| **Liquidità immediate** |  -  |
+| Cassa | 20'000 |
+| Depositi bancari | 30'000 |
+| Depositi postali | 15'000 |
+| **Totale liquidità immediate** | 65'000 |
+| **Liquidità differite** | -  |
+| Crediti verso clienti | 210'000 |
+| BOT | 25'000 |
+| CCT | 10'000 |
+| BTP | 40'000 |
+| **Totale Liquidità differite** | 285'000 |
+| **Disponibilità** | - |
+| Scorte di materie prime | 110'000 |
+| Scorte di semilavorati | 55'000 |
+| Scorte di prodotti finali | 85'000 |
+| **Totale disponibilità** | 250'000 |
+
+
 
 
 
