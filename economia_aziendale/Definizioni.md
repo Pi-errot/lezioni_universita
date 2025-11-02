@@ -40,6 +40,22 @@
     - Equity
     - Capitale dei soci
 
+- **Bot** (Buoni ordinari del tesoro):
+- **BTP** (Buoni del Tesoro Poliennale):
+- **CCT** (Certificati di credito del tesoro):
 
+**Solvibilità aziendale**: 
+    - È la capacità di un'azienda di ripagare i suoi impegni finanziari presenti o futuri.
 
-**Solvibilità aziendale**
+**VRB**, Valore Residuo del Bene: 
+    - Costo storico - Fondo ammortamento 
+
+**Fido e commissione di messa a disposizione dei fondi**:
+- Fido: è una somma che ci permette di andare in saldo negativo con il nostro conto corrente
+- Commissione di messa a disposizione dei fondi: è una percentuale di commissioni fisse trimestrali calcolate in base al fondo del fido.
+
+**Tempistiche finanziarie:**
+- Brevissimo termine: <1 mese
+- Breve termine: <1 anno
+- Medio termine: >1 anni
+- Lungo termine: >3 anni

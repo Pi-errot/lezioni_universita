@@ -161,17 +161,3 @@ Esercitazione 2: Attivo circolante dello Stato Patrimoniale al 31/12/2018
 | Scorte di prodotti finali | 85'000 |
 | **Totale disponibilità** | 250'000 |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
